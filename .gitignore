@@ -1,0 +1,6 @@
+test.py
+.vercel
+.env
+
+*.pyc
+__pycache__/
